@@ -22,10 +22,7 @@ Faça um clone desse repo e abra o arquivo HTML no navegador ou caso queira apen
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-```
 
 ## Demo
+![pong-game](https://user-images.githubusercontent.com/66249777/106080837-97cdcb80-60f6-11eb-93ba-c77906f59cfd.gif)
 
-
-
-![paper-scissors-spock](https://user-images.githubusercontent.com/66249777/106073970-c85b3880-60e9-11eb-94b1-67fa11e4147b.gif)
